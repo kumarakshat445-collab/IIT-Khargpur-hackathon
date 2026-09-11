@@ -1,0 +1,6 @@
+{
+  "name": "AeroMars HiRISE Anomaly Detection Studio",
+  "description": "IIT Kharagpur NSSC 2026 Mars HiRISE Anomaly Detection Challenge - Complete unsupervised deep residual autoencoder & EVT anomaly localization platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
